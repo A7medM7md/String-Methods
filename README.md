@@ -68,7 +68,7 @@ Compares two memory blocks byte by byte and returns an integer indicating their 
 Scans a memory block for the first occurrence of a specified byte and returns a pointer to it.
 
 ## How to Use
-Each function is implemented separately in C. To test the implementations, compile and run the corresponding test files.
+To compile and run the implementation along with test cases, use:
 
 ```bash
 gcc -o app.exe  mystring.c main.c
